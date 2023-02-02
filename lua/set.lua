@@ -14,3 +14,4 @@ vim.opt.hlsearch = false
 vim.opt.incsearch = false
 
 vim.opt.termguicolors = true
+
